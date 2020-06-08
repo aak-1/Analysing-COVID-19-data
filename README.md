@@ -1,7 +1,7 @@
 # Web-scraping-COVID-19-data
 
-![GIF](https://github.com/aakriti-aggarwal-11/Analysing-COVID-19-data-using-Python/blob/master/Plots%20GIF.gif?raw=true)
+![GIF](https://github.com/aakriti-aggarwal-11/Analysing-COVID-19-data-using-Python/blob/master/GIF%20Plot.gif?raw=true)
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Coronaviruses are a large family of viruses, some of which cause illness in people, and others that circulate among mammals and birds. The case fatality rate is approximately 2.3% (based on initial information).
 
-The aim of this project is to provide a graphical interpretation of the statistics of Coronavirus all over the world. The program scrapes data off of the Worldometer website and plots the number of Total Cases, Total Deaths, Mortality Rate, and the percentage of Total Cases for the countries which are among the list of the 16 highest number of Coronavirus patients recorded. The project is meant to show that data is easier to interpret when it is served in a graphical form than it is in raw data form, even if the patterns are straightforward. The spread of Coronavirus is very fast, and as days pass, misinformation about the data is very hard to detect. Therefore, this project is a step in the direction of curbing the spread of fabricated lies about the data by providing well researched facts and numbers in a form that can be read and interpreted easily by all the people. The data is provided in forms of bar graphs and pie charts; hence it is possible to take an idea about the statistical values just by looking at them.
+The aim of this project is to provide a graphical interpretation of the statistics of Coronavirus all over the world. The data source for the project is the Worldometer website. The data is then visualised through graphs which provides a better understanding.
