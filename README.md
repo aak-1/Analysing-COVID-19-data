@@ -1,4 +1,4 @@
-# Web-scraping-COVID-19-data
+# Visualising COVID-19-data
 
 ![GIF](https://github.com/aakriti-aggarwal-11/Analysing-COVID-19-data-using-Python/blob/master/GIF%20Plot.gif?raw=true)
 
